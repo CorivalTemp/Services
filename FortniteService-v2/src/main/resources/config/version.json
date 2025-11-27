@@ -1,0 +1,27 @@
+{
+  "app": null,
+  "serverDate": null,
+  "overridePropertiesVersion": "unknown",
+  "cln": "14336701",
+  "build": "211",
+  "moduleName": "Fortnite-Core",
+  "buildDate": "2025-11-12T19:58:31.786Z",
+  "version": "Alpha-0.0.1",
+  "branch": "main",
+  "modules": {
+    "reality-common-core": {
+      "cln": "3222",
+      "build": "793",
+      "buildDate": "2025-11-12T19:58:31.786Z",
+      "version": "2.6.1-Grizzely-To-Jetty-Migration",
+      "branch": "main"
+    },
+    "Epic-LightSwitch-AccessControlCore": {
+      "cln": "33697815",
+      "build": "2",
+      "buildDate": "2025-10-16T03:08:47.078Z",
+      "version": "2.0.0",
+      "branch": "main"
+    }
+  }
+}
