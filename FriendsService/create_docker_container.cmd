@@ -1,0 +1,1 @@
+docker save -o friends-service.tar realityfn-friends-service
