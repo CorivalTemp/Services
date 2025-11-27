@@ -1,0 +1,20 @@
+{
+  "app": null,
+  "serverDate": null,
+  "overridePropertiesVersion": "unknown",
+  "cln": "UNKNOWN",
+  "build": "UNKNOWN",
+  "moduleName": "Epic-Catalog-App",
+  "buildDate": "2025-08-09T07:38:02.525Z",
+  "version": "UNKNOWN",
+  "branch": "TRUNK",
+  "modules": {
+    "reality-common-core": {
+      "cln" : "629",
+      "build" : "2",
+      "buildDate" : "2025-09-17T07:27:39.339Z",
+      "version" : "2.1.4",
+      "branch" : "main"
+    }
+  }
+}
